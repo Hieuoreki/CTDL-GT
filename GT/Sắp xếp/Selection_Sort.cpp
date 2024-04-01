@@ -1,4 +1,4 @@
-// THUẬT TOÁN SẮP XẾP CHỌN
+// THUẬT TOÁN SẮP XẾP CHỌN - On2
 
 // Nó sẽ đi tìm phần tử nhỏ nhất trong mảng trong đoạn chưa được sắp xếp
 // và đổi chỗ cho phần tử nhỏ nhất đó với phần từ ở đầu đoạn chưa được sắp xếp.

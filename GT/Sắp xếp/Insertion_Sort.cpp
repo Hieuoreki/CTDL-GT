@@ -13,7 +13,7 @@ void insertionSort(int a[], int n)
     {
         int j = i-1;
         int temp = a[i];
-        while(j >= 0 && a[j-1] > temp)
+        while(j >= 0 && a[j] > temp)
         {
             a[j+1] = a[j];
             j--;
