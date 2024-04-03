@@ -34,7 +34,7 @@ void insert(Node **head, int x)
 void print(Node *head)
 {
     cout << "List is: ";
-    if(head != NULL)
+    while(head != NULL)
     {
         // in giá trị data
         cout << head -> data;
